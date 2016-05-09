@@ -1,5 +1,6 @@
-cc7-lab0
+cc7-lab09
 --------
+
 ## Requisitos ##
 
  - Uso de PThreads para:
