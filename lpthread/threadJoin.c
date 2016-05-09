@@ -3,7 +3,7 @@
 #define NUM_THREADS 4
 
 void *hello (void *arg) { 
-	printf("Hello Thread\n"); 
+	printf("Hello Thread : %lu\n", pthread_self()); 
 }
  
 main() {	
