@@ -1,6 +1,9 @@
 cc7-lab09
 --------
 
+## Uso ##
+`gcc water.c -lpthread && ./a.out`
+
 ## Requisitos ##
 
  - Uso de PThreads para:
